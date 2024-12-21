@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is mani 🐉<br>I'm currently not working for any specific company but i might be looking for one 🧐<br>Learning REACT at the moment 🌐
+My name is mani 🐉<br>Learning REACT at the moment 🌐
 
 
 ## 🌐 Socials:
